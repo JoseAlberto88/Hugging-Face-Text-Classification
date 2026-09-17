@@ -55,7 +55,7 @@ print(model.config.id2label[predicted_id])
 
 ## What's in this repo
 
-- `huggingface_text_classification_tutorial_video.ipynb` — the full notebook: loading the dataset, tokenizing, training, evaluating, and pushing the model to the Hub.
+- `huggingface_text_classification_tutorial_video.ipynb`: the full notebook: loading the dataset, tokenizing, training, evaluating, and pushing the model to the Hub.
 
 ## Notes on the workflow
 
